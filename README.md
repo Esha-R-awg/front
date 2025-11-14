@@ -46,42 +46,15 @@ I like systems that look futuristic, work fast, and feel like something out of a
 
 ---
 
-## 🎮 Aesthetic Hacker Vibes
-
-<div align="center">
-
-  <!-- Dark hacker typing -->
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
-
-  <br><br>
-
-  <!-- Neon cyberpunk code rain -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" />
-
-  <br><br>
-
-  <!-- Retro 80s terminal vibe -->
-  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="400" />
-
-  <br><br>
-
-  <!-- Matrix-theme futuristic -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY4c2p5cGpoNjZlMWZpNmxqZ2g0ajgybmF2aGJxOWp4bndtNzBrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqlvCTNHpqrio/giphy.gif" width="400" />
-
-</div>
-
-
 ---
 
 ## 🧠 Tech Interests  
 - Machine Learning  
 - Vision Models  
 - Neural Networks  
-- AI Workflows  
-- Creative Coding  
-- Automation  
-- Retro-aesthetic UI  
-
+- AI Workflows
+- OpenCV
+- LLMs and Chatbots
 ---
 
 ## 📫 Connect  
