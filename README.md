@@ -50,13 +50,26 @@ I like systems that look futuristic, work fast, and feel like something out of a
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <!-- Dark hacker typing -->
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 
-  <br>
+  <br><br>
 
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="350" />
+  <!-- Neon cyberpunk code rain -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" />
+
+  <br><br>
+
+  <!-- Retro 80s terminal vibe -->
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="400" />
+
+  <br><br>
+
+  <!-- Matrix-theme futuristic -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY4c2p5cGpoNjZlMWZpNmxqZ2g0ajgybmF2aGJxOWp4bndtNzBrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqlvCTNHpqrio/giphy.gif" width="400" />
 
 </div>
+
 
 ---
 
